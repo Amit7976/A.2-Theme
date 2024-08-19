@@ -3,6 +3,7 @@
   "displayName": "A.2 Theme",
   "description": "Experience coding like never before with an innovative method and a clean, distraction-free theme.",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.92.0"
   },
