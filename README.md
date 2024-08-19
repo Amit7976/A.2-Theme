@@ -51,7 +51,7 @@ We welcome contributions! If you'd like to help improve the theme, please feel f
 
 ## 📄 License
 
-A.2 Theme is licensed under the [MIT License](https://github.com/Amit7976/a.2_theme/blob/main/LICENSE).
+A.2 Theme is licensed under the [MIT License](https://github.com/Amit7976/A.2-Theme/blob/master/LICENSE.txt).
 
 ---
 
