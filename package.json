@@ -1,0 +1,21 @@
+{
+  "name": "a.2-theme",
+  "displayName": "A.2 Theme",
+  "description": "Experience coding like never before with an innovative method and a clean, distraction-free theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "A.2 Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/A.2-color-theme.json"
+      }
+    ]
+  }
+}
